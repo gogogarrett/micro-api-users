@@ -9,4 +9,6 @@ module UserRepresenter
 
   property :id
   property :name
+  property :age
+  property :snippet
 end
